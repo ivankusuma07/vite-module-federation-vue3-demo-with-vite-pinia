@@ -1,0 +1,1 @@
+# vite-module-federation-vue3-demo-with-vite-pinia
