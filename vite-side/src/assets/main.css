@@ -1,0 +1,8 @@
+.counter-yellow {
+  border: 0 solid #e2e8f0;
+  background-color: rgb(253, 244, 138, 223);
+  border-radius: 0.25rem;
+  font-weight: 700;
+  padding: 0.5rem 1rem 0.5rem 1rem;
+  color: rgb(24, 24, 24);
+}
